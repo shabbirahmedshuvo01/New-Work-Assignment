@@ -32,8 +32,10 @@ h2{
     box-shadow: rgb(158, 223, 28);
     }
     .beside-hw img{
-        width: 500px;
-        padding-left: 5%;
+        width: 450px;
+        padding-right: 30px;
+        margin-top: -10%;
+        
     }
     .flexible-tc{
         display: flex;
