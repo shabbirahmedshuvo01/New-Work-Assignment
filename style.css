@@ -125,4 +125,6 @@ h2{
         display: flex;
         margin-left: 120px;
     }
-    
+    .bg-end{
+        background-color: black;
+    }
