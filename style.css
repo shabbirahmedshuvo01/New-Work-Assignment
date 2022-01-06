@@ -101,5 +101,25 @@ h2{
         font-size: 25px;
         padding-top: 20px;
     }
-    
+    .Big-work{
+        background-image: url(images/shapes/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+    .secend-work{
+        width: 50%;
+        padding-left: 3%;
+        box-shadow: yellowgreen;
+    }
+    .resize-t{
+        font-size: 30px;
+    }
+    .img-resize{
+        width: 400px;
+        height: 242px;
+    }
+    .flexible-note{
+        display: flex;
+        margin-left: 120px;
+    }
     
